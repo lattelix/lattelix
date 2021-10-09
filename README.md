@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit! 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Lini Dashiro!
 
 ![Profile views](https://gpvc.arturio.dev/lattelix)
 
@@ -14,3 +14,4 @@
 
 /github/followers/:lattelix?label=Follow
 https://img.shields.io/github/followers/lattelix?style=social
+https://img.shields.io/github/stars/lattelix
