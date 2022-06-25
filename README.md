@@ -4,7 +4,7 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/lattelix)
 ![GitHub followers](https://img.shields.io/github/followers/lattelix)
 
-- 🔭 I’m currently working on portfolio 
+- 🔭 I’m currently working for the Yandex SHRI
 - 🌱 I’m currently learning javascript
 - 👯 I’m looking to collaborate with Rainbow""
 - 🤔 I’m looking for help from Rainbow""
