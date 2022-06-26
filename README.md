@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working for the Yandex SHRI
 - 🌱 I’m currently learning javascript
-- 👯 I’m looking to collaborate with Rainbow""
-- 🤔 I’m looking for help from Rainbow""
+- 👯 I’m looking to collaborate with Rainbow
+- 🤔 I’m looking for better life
 - 💬 Ask me how the Rainbow is doing.
 
 <a href="https://t.me/lattelix">
