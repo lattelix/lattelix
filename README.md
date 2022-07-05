@@ -1,4 +1,5 @@
-Improve yourself!
+You are the most important thing in your life.
+Appreciate yourself!
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Lini Dashiro!
 
