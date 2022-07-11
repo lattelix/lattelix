@@ -1,7 +1,7 @@
 You are the most important thing in your life.
 Appreciate yourself!
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Lini Dashiro!
+### Hi there 👋, I am Lini Dashiro!
 
 ![Profile views](https://gpvc.arturio.dev/lattelix)
 ![GitHub Org's stars](https://img.shields.io/github/stars/lattelix)
