@@ -1,8 +1,7 @@
 You are the most important thing in your life.
 Appreciate yourself!
 
-### Hi there <img alt="Hi there!" width="30px" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif![image](https://user-images.githubusercontent.com/65864204/179009058-d2f3f175-809d-427e-ac81-df9d4d0e1dd0.png)
-"/>, I am Lini Dashiro!
+### Hi there <img   alt="lattelix | Telegram" width="30px" src="[https://user-images.githubusercontent.com/38384967/88418464-3eee4500-cdec-11ea-9507-c58e28fc11b9.png](https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif)" />, I am Lini Dashiro!
 
 ![Profile views](https://gpvc.arturio.dev/lattelix)
 ![GitHub Org's stars](https://img.shields.io/github/stars/lattelix)
