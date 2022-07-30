@@ -7,11 +7,11 @@ I'm Alexander, a junior **FrontEnd-web** developer.
 ![GitHub Org's stars](https://img.shields.io/github/stars/lattelix)
 ![GitHub followers](https://img.shields.io/github/followers/lattelix)
 
-- 🔭 I’m currently working for the Yandex SHRI
-- 🌱 I’m currently learning javascript
-- 👯 I’m looking to collaborate with Motvey
+- 🔭 I’m currently working for my future
+- 🌱 I’m currently learning javascript and life
+- 👯 I’m looking to collaborate with Matvey
 - 🤔 I’m looking for better life
-- 💬 Ask me how Motvey is doing.
+- 💬 Ask me how living
 
 
 ### Languages
