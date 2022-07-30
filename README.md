@@ -46,6 +46,6 @@ I'm Alexander, a junior **FrontEnd-web** developer.
 
 <p align="center">
   <a href="http://lattelix.xyz/old">
-    <img title="GitHub Streak" alt="Alex's streak" src="http://github-readme-streak-stats.herokuapp.com?user=lattelix&theme=highcontrast&hide_border=true"/>
+    <img title="GitHub Streak" alt="Alex's streak" src="http://github-readme-streak-stats.herokuapp.com?user=lattelix&theme=javascript&hide_border=true"/>
   </a>
 </p>
