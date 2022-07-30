@@ -45,7 +45,7 @@ I'm Alexander, a junior **FrontEnd-web** developer.
 ## 🔥 Streak stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="http://lattelix.xyz/old">
     <img title="GitHub Streak" alt="Alex's streak" src="http://github-readme-streak-stats.herokuapp.com?user=lattelix&theme=highcontrast&hide_border=true"/>
   </a>
 </p>
