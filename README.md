@@ -40,3 +40,15 @@ I'm Alexander, a junior **FrontEnd-web** developer.
 [![](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)](http://lattelix.xyz?ref=github)
 [![](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)](http://lattelix.xyz?ref=github)
 [![](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)](http://lattelix.xyz?ref=github)
+
+
+## 🔥 Streak stats
+
+<p align="center">
+  <a href="https://github.com/lattelix">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
