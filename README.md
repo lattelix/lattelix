@@ -1,3 +1,4 @@
+<!-- 
 ### Hi there, i'm lattelix <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 I'm Alexander, a junior **FrontEnd-web** developer.
@@ -12,9 +13,14 @@ I'm Alexander, a junior **FrontEnd-web** developer.
 - 👯 I’m looking to collaborate with Matvey
 - 🤔 I’m looking for better life
 - 💬 Ask me how living
+-->
+
+# This is a "PRO" update of my profile!   🎉 🍾 🎊
+## Something will definitely be here soon
+
 
 <!-- Скопировано у Матвея -->
-
+<!--
 ### Technologies
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](http://lattelix.xyz?ref=github)
@@ -28,8 +34,8 @@ I'm Alexander, a junior **FrontEnd-web** developer.
 [![](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=CC6699)](http://lattelix.xyz?ref=github)
 [![](https://img.shields.io/badge/-Git-000?&logo=Git)](http://lattelix.xyz?ref=github)
 [![](https://img.shields.io/badge/-Docker-000?&logo=Docker)](http://lattelix.xyz?ref=github)
-
-
+-->
+<!--
 ## 🔥 Streak stats
 
 <p align="center">
@@ -37,3 +43,4 @@ I'm Alexander, a junior **FrontEnd-web** developer.
     <img title="GitHub Streak" alt="Alex's streak" src="http://github-readme-streak-stats.herokuapp.com?user=lattelix&theme=Javascript&hide_border=true"/>
   </a>
 </p>
+-->
