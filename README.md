@@ -35,7 +35,7 @@ I'm Alexander, a junior **FrontEnd-web** developer.
 [![](https://img.shields.io/badge/-Git-000?&logo=Git)](http://lattelix.xyz?ref=github)
 [![](https://img.shields.io/badge/-Docker-000?&logo=Docker)](http://lattelix.xyz?ref=github)
 -->
-<!--
+
 ## 🔥 Streak stats
 
 <p align="center">
@@ -43,4 +43,3 @@ I'm Alexander, a junior **FrontEnd-web** developer.
     <img title="GitHub Streak" alt="Alex's streak" src="http://github-readme-streak-stats.herokuapp.com?user=lattelix&theme=Javascript&hide_border=true"/>
   </a>
 </p>
--->
