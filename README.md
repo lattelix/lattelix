@@ -15,7 +15,6 @@ I'm Alexander, a junior **FrontEnd-web** developer.
 - 💬 Ask me how living
 -->
 
-
 # This is a "PRO" update of my profile!   🎉 🍾 🎊
 ### Something will definitely be here soon
 
