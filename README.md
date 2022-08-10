@@ -23,7 +23,6 @@ I'm Alexander, a junior **FrontEnd-web** developer.
 <!--
 
 ### Technologies
-
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](http://lattelix.xyz?ref=github)
 [![](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769AD)](http://lattelix.xyz?ref=github)
 [![](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](http://lattelix.xyz?ref=github)
