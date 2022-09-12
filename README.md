@@ -13,5 +13,3 @@ I'm Alexander, a junior **FrontEnd-web** developer.
 - 👯 I’m looking to collaborate with Matvey
 - 🤔 I’m looking for better life
 - 💬 Ask me how i living
-
-<a href="http://lattelix.xyz/old"><img title="GitHub Streak" alt="Alex's streak" src="http://github-readme-streak-stats.herokuapp.com?user=lattelix&theme=GitHub&hide_border=true"/></a>
