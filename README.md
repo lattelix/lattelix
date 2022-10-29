@@ -11,5 +11,5 @@ I'm Alex, a junior **FrontEnd-web** developer.
 - 🔭 I’m currently working with TS low-code
 - 🌱 I’m currently learning JavaScript and React
 - 👯 I’m looking...
-- 🤔 I’m bettering myself 
+- 🤔 I’m bettering myself and my life
 - 💬 Ask me what i do 
