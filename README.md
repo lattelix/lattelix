@@ -5,6 +5,13 @@
 </p>
 
 <p align="center">
+  <img
+    alt="Typing intro"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=0EA5E9&center=true&vCenter=true&width=760&lines=Frontend+systems+with+React+and+TypeScript;API-connected+products+with+Next.js+and+Node.js;Learning+C%2C+memory%2C+algorithms%2C+and+systems"
+  >
+</p>
+
+<p align="center">
   <a href="https://github.com/lattelix?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/lattelix?style=for-the-badge&logo=github&label=Followers&color=0ea5e9">
   </a>
@@ -24,6 +31,13 @@ I build responsive web interfaces, API-driven features, and maintainable product
 - Building with JavaScript, TypeScript, React, Next.js, Node.js, Docker, and Git.
 - Studying C and backend fundamentals to grow beyond UI into stronger engineering depth.
 - Improving every week: code quality, communication, and engineering discipline.
+
+### Now
+
+| Building | Learning | Improving |
+| --- | --- | --- |
+| API-connected React and Next.js interfaces | C, memory management, algorithms, systems basics | TypeScript contracts, Docker, CI/CD, Git workflow |
+| Frontend architecture for product flows | Node.js backend patterns and REST APIs | Accessibility, performance, and reliable UI states |
 
 ### Toolbox
 
@@ -87,6 +101,22 @@ I build responsive web interfaces, API-driven features, and maintainable product
 - Treat frontend and backend contracts as one product surface.
 - Keep user states visible: loading, empty, error, and success.
 - Write code that another developer can continue without guessing.
+
+### Contribution Flow
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/lattelix/lattelix/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://raw.githubusercontent.com/lattelix/lattelix/output/github-contribution-grid-snake.svg"
+    >
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/lattelix/lattelix/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ### Explore
 
